@@ -1,0 +1,7 @@
+Kashan Weather Data (Last Days of Azar to Dey 4) - Text Format
+Format: Date(Shamsi) | AQI | AQI_Status | Temp_Min(C) | Temp_Max(C) | Humidity(%)
+
+1404-10-04 | 61% | 40% |
+1404-10-03 | 48% | 45% |
+1404-10-02 | 54% | 35% |
+1404-10-01 | 36% | 50% |
